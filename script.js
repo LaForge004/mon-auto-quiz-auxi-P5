@@ -1,10 +1,10 @@
 ﻿const quizData = [
     {
-        question: "Que signifie l'acronyme HTML ?",
-        a: "Hyper Text Markup Language",
-        b: "Home Tool Markup Language",
-        c: "Hyperlinks and Text Text Language",
-        correct: "a"
+        question: "Que signifie INFAS ?",
+        a: "Institut Nationale de Fédérale des Agents de santé",
+        b: "Institut Normale de Formation des Agents de santé",
+        c: "Institut Nationale de Formation des Agents de santé",
+        correct: "c"
     },
     {
         question: "Quel langage utilise-t-on pour styliser un site web ?",
